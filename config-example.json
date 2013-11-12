@@ -1,0 +1,5 @@
+{
+"accountId" : "1234567",
+"apiKey" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"apps"   : ["App1", "App2"]
+}
