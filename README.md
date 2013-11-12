@@ -1,9 +1,9 @@
 newrelic-scraper
 ================
 
-newrelic-scraper
+* pull_dbstats: pull the database usage for a set of apps over a time range and build a spreadsheet with the results
 
-Steps for usage:
+Steps for usage (pull_dbstats):
 ---------------
 
 * copy config-example.json to config.json
